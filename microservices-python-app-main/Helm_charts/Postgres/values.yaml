@@ -7,5 +7,5 @@ container:
   image: postgres
   env:
     user: nasi
-    password: your-postgres-password
+    password: vikash@1234
     db: authdb

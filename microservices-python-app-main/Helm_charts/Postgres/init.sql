@@ -5,5 +5,5 @@ CREATE TABLE auth_user (
 );
 
 --Add Username and Password for Admin User
--- INSERT INTO auth_user (email, password) VALUES ('your-email@gmail.com', 'your-password');
-INSERT INTO auth_user (email, password) VALUES ('your-email@gmail.com', 'your-password');
+-- INSERT INTO auth_user (email, password) VALUES ('vikashkumarkeshari9090@gmail.com', 'vikash@1234');
+INSERT INTO auth_user (email, password) VALUES ('vikashkumarkeshari9090@gmail.com', 'vikash@1234');
