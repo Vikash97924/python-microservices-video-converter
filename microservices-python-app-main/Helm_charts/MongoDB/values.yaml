@@ -1,6 +1,6 @@
 secret:
   root_username: nasi
-  root_password: nasi1234
-  username: nasi
-  password: nasi1234
-  users_list: nasi
+  root_password: your-mongo-root-password
+  username: your-mongo-username
+  password: your-mongo-password
+  users_list: your-mongo-username
